@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yuxin0113chen.github.io/starskate-visualizer/sitemap.xml
